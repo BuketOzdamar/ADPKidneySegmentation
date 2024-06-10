@@ -14,6 +14,7 @@ Model eğitimlerinde en başarılı parametreleri kullanabilmek için de "grid s
 ![resim](https://github.com/BuketOzdamar/ADPKidneySegmentation/assets/78095286/8334a019-700c-4aa8-935d-dce7f2da5a77)
 
 Tahmin sonuçları
+
 ![resim](https://github.com/BuketOzdamar/ADPKidneySegmentation/assets/78095286/818202e4-c52b-45c6-9dc9-09e4fee7701d)
 ![resim](https://github.com/BuketOzdamar/ADPKidneySegmentation/assets/78095286/08fda0c7-4361-46f4-886b-446efa4cb6cd)
 ![resim](https://github.com/BuketOzdamar/ADPKidneySegmentation/assets/78095286/22851f2c-a9e3-4f51-ac7c-df16e0cf9d08)
